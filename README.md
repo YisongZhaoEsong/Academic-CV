@@ -13,10 +13,6 @@ My research focuses on human–computer interaction, embodied and immersive inte
 
 https://drive.google.com/file/d/1uuH9DWn2i12EUnD4YTxoqhQ60gf9Fuz7/view?usp=sharing
 
-## Research Interests
-
-Human–Computer Interaction · Embodied and Immersive Interaction · Multimodal and Multisensory Interaction · Human–AI Interaction · Digital Wellbeing
-
 ## Related Research
 
 [Research and Publications](https://github.com/YisongZhaoEsong/Research-Publications)
