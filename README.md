@@ -1,4 +1,4 @@
-<img width="2379" height="1613" alt="image" src="https://github.com/user-attachments/assets/3d680998-69fa-4a9c-b111-3518eff2e63b" /># Academic CV
+# Academic CV
 
 ## Yisong Zhao
 
