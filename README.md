@@ -5,8 +5,6 @@
 MSc Creative Computing
 University of the Arts London
 
-My research focuses on human–computer interaction, embodied and immersive interaction, human–AI interaction and digital wellbeing.
-
 ## Curriculum Vitae
 
 [View or download my academic CV](./CV-Yisong%20ZHAO.pdf)
