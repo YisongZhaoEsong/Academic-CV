@@ -1,4 +1,4 @@
-# Academic CV
+<img width="2379" height="1613" alt="image" src="https://github.com/user-attachments/assets/3d680998-69fa-4a9c-b111-3518eff2e63b" /># Academic CV
 
 ## Yisong Zhao
 
@@ -10,6 +10,8 @@ My research focuses on human–computer interaction, embodied and immersive inte
 ## Curriculum Vitae
 
 [View or download my academic CV](./CV-Yisong%20ZHAO.pdf)
+
+https://drive.google.com/file/d/1uuH9DWn2i12EUnD4YTxoqhQ60gf9Fuz7/view?usp=sharing
 
 ## Research Interests
 
